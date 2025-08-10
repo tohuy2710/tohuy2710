@@ -20,6 +20,19 @@ I’m interested in **Machine Learning**, especially its applications in **Finan
 Currently, I’m working as a **Research Assistant (RA)** in **iSE Lab** (VNU-UET), focusing on **AI4SE** — exploring methods to automate various aspects of software development.
 
 ---
+### 📊 LeetCode Stats
+
+**Data Structures & Algorithms (DSA)** is one of my favorite subjects.  
+I regularly practice problem-solving on LeetCode to sharpen my coding skills.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tohuy2710?theme=light&font=DM%20Sans&ext=heatmap)
+
+
+<a href="https://leetcode.com/u/tohuy2710/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"/>
+</a>
+  
+---
 
 ## 🛠 Skills & Tools
 
@@ -78,3 +91,6 @@ I also have a personal blog where I share my adventures and experiences: Let che
 [<img src="https://i.pinimg.com/736x/0c/56/79/0c56799b8f9872257034c8d3a5ae68fd.jpg" width="20"/> **tohuy2710.vercel.app**](https://tohuy2710.vercel.app/)
 
 </p>
+
+
+
