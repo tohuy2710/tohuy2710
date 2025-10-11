@@ -44,6 +44,7 @@ I regularly practice problem-solving on LeetCode to sharpen my coding skills.
 
 **Frameworks:**  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-092E20?logo=fastapi&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF6F00?logo=java&logoColor=white)
 
@@ -84,7 +85,7 @@ I regularly practice problem-solving on LeetCode to sharpen my coding skills.
   </a>
 
 
-I also have a personal blog where I share my adventures and experiences: Let check it, something funny here :>
+I also have a personal blog where I share my adventures and experiences: Let check it, something funny here
 
 [<img src="https://i.pinimg.com/736x/0c/56/79/0c56799b8f9872257034c8d3a5ae68fd.jpg" width="20"/> **tohuy2710.vercel.app**](https://tohuy2710.vercel.app/)
 
