@@ -5,67 +5,13 @@ Here’s something about myself!
 
 ---
 
-📝 **Full name:** Quang-Huy To  
-📍 **Location:** Hanoi, Vietnam  
-🌐 **Languages:** Vietnamese (native), English (B2)  
+📝 **Full name:** Tô Quang Huy
+📍 **Location:** Hanoi, Vietnam (comfortable for relocate)
+🌐 **Languages:** Vietnamese (native), English (fluently)  
 🎓 **Education:** Third-year [Computer Science](https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-4-2/) student at  <img src="https://media.loveitopcdn.com/3807/logo-dh-quoc-gia-ha-noi-vector-dongphucsongphu2.png" alt="VNU-UET logo" width="50" style="vertical-align:middle;"/> [VNU-UET](https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_C%C3%B4ng_ngh%E1%BB%87,_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_H%C3%A0_N%E1%BB%99)   *(expected graduation: **Dec 2026**)*
 
-I’m a **Software Engineer Intern** with strong interests in **Software Development**, **Machine Learning**, and **System Design**.  
+I’m a **Software Engineer Intern** with strong interests in **Software Development**, **System Design**, and **Machine Learning**.  
 I love architecting scalable systems and exploring how intelligent technologies can create real-world impact.
-
-🎓 After graduation, I aspire to work in the **Fintech industry** — building reliable, data-driven, and high-performance systems that make finance smarter and more accessible.
-
-
----
-### 📊 LeetCode Stats
-
-**Data Structures & Algorithms (DSA)** is one of my favorite subjects.  
-I regularly practice problem-solving on LeetCode to sharpen my coding skills.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/tohuy2710?theme=light&font=DM%20Sans&ext=heatmap)
-
-
-<a href="https://leetcode.com/u/tohuy2710/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"/>
-</a>
-  
----
-
-## 🛠 Skills & Tools
-
-**Programming:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Frameworks:**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-092E20?logo=fastapi&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![JavaFX](https://img.shields.io/badge/-JavaFX-FF6F00?logo=java&logoColor=white)
-
-**Data Science & ML:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![Axolotl](https://img.shields.io/badge/-Axolotl-000000?logo=python&logoColor=white)
-![Unsloth](https://img.shields.io/badge/-Unsloth-000000?logo=python&logoColor=white)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-**Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
 
 ## 🌐 Profiles & Contact
 
